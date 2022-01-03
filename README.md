@@ -16,6 +16,7 @@ frontend. To get set up, run:
 $ bundle install
 $ rails db:migrate db:seed
 $ npm install --prefix client
+
 ```
 
 You can work on this lab by running the tests with `learn test`. It will also be
